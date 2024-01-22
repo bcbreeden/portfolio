@@ -1,0 +1,15 @@
+h1, p, a {
+    font-family: "Share Tech Mono", monospace;
+    font-style: normal;
+  }
+
+h1 {
+    font-weight: 600;
+}
+
+p {
+    font-weight: 400;
+    font-size: larger;
+}
+
+  
