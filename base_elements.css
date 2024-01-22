@@ -1,3 +1,21 @@
+a {
+    color: rgb(73, 0, 73);
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
 h1, p, a {
     font-family: "Share Tech Mono", monospace;
     font-style: normal;
@@ -17,5 +35,3 @@ main {
     flex-direction: column;
     width: 950px;
 }
-
-  
