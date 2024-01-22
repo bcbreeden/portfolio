@@ -1,5 +1,5 @@
 a {
-    color: rgb(73, 0, 73);
+    color: darkblue;
 }
 
 a:hover {
@@ -25,7 +25,7 @@ h1 {
     font-weight: 600;
 }
 
-p {
+p, a {
     font-weight: 400;
     font-size: larger;
 }
