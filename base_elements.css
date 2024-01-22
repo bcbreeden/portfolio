@@ -12,4 +12,10 @@ p {
     font-size: larger;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    width: 950px;
+}
+
   
